@@ -134,7 +134,7 @@ class LLMDesigner:
         return f"{name} 通过多靶点调节，实现{'+'.join(effects)}。该设计专门针对'{goal}'进行优化。"
 
 def main():
-    from 荒謬絕倫的製藥研究 import render_exposé
+    from drug_reserch_expose import render_exposé
     page = st.sidebar.selectbox("选择页面", ["理性设计模拟器", "药物研发现形记"])
     if page == "理性设计模拟器":
         st.set_page_config(page_title="理性药物设计模拟器 v0.1", layout="wide")
