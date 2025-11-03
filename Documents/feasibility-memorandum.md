@@ -43,3 +43,5 @@
 ---
 
 下一步接触：如需获取更详细的技术备忘录或安排初步技术会谈，请通过邮箱联系。
+main Email: Landsingchang@gmail.com
+LinkedIn: https://www.linkedin.com/in/%E9%80%A3%E6%98%9F-%E5%BC%B5-aa244612a/
