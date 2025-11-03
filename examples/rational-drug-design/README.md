@@ -13,3 +13,7 @@
 ### 安装依赖
 ```bash
 pip install -r requirements.txt
+
+### quck startup
+```bash
+streamlit run app.py
